@@ -1,0 +1,24 @@
+@font-face {
+    font-family: letra1;
+    src: url(../fonts/DancingScript-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: letra2;
+    src: url(../fonts/MavenPro-VariableFont_wght.ttf);
+}
+body    {background-image: url(../imagenes/otoño-inglaterra.jpg);}
+
+#poema   {background-color: rgba(255, 235, 205, 0.733);
+        text-align: center;
+        font-family: letra2;
+        font-size: 110%;
+        font-style: italic;
+        margin: 20px 27em;
+        padding: 5px;
+        border-radius: 50px;}
+
+#poema h1 {font-family: letra1;}
+
+#minombre {font-size: 65%;}
+
+#oja_sola   {width: 35%;}
